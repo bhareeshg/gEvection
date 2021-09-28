@@ -1,10 +1,10 @@
 # ganEvection
 secular code for evection resonance
 
-##Prerequisites:
+## Prerequisites:
 The code needs GSL, python3, numpy and matplotlib
 
-##Usage
+## Usage
 The initial conditions need to be given in IC.txt
 
 To run only secular code, run:
