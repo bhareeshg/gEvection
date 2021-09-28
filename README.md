@@ -11,7 +11,7 @@ To run only secular code, run:
 ```
 gcc evec_evol_gw.c -lm -lgsl -lgslcblas && ./a.out IC.txt
 ```
-To run N-body code, copy the two folders to examples folder in rebound installation i.e at "rebound/examples". Then run:
+To run N-body code, copy the two folders to examples folder in rebound installation i.e at "rebound/examples". Then run the following command in each of the folders:
 ```
 bash run.sh
 ```
