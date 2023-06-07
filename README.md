@@ -1,4 +1,4 @@
-# ganEvection
+# gEvection
 secular code for evection resonance
 
 ## Prerequisites:
